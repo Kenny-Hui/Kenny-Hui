@@ -1,4 +1,6 @@
 ## Hi there 👋
+This is my professional account, not much to see right now~
+Consider heading to to my [personal account](https://github.com/AmberIsFrozen)!
 
 <!--
 **Kenny-Hui/Kenny-Hui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
